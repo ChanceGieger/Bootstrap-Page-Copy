@@ -1,21 +1,25 @@
 .style{
-  padding-left: 400px;
-  padding-right: 400px;
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 .ul{
-  padding-left: 400px;
-  padding-right: 400px;
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 .first{
   background: #9ACD32;
-  padding-left: 400px;
-  padding-right: 400px;
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 .second{
   background: #DAA521;
-  padding-left: 400px;
-  padding-right: 400px;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.image{
+  width: 100%;
 }
